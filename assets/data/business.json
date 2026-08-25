@@ -1,0 +1,30 @@
+{
+  "name": "Booth Design Karachi",
+  "legalName": "Booth Design Karachi",
+  "tagline": "Exhibition Booths, Engineered.",
+  "url": "https://boothdesignkarachi.com",
+  "founded": null,
+  "description": "Booth Design Karachi designs, fabricates, and installs exhibition booths, stalls, and kiosks for brands exhibiting across Karachi and Pakistan.",
+  "address": {
+    "streetAddress": "[Address line — to be confirmed]",
+    "addressLocality": "Karachi",
+    "addressRegion": "Sindh",
+    "postalCode": "[Postal code — to be confirmed]",
+    "addressCountry": "PK",
+    "display": "Karachi, Pakistan"
+  },
+  "phone": "[Phone — to be confirmed]",
+  "phoneHref": "tel:+92XXXXXXXXXX",
+  "whatsapp": "[WhatsApp — to be confirmed]",
+  "whatsappHref": "https://wa.me/92XXXXXXXXXX",
+  "email": "[email protected]",
+  "hours": "Sun–Fri, 10:00 AM – 7:00 PM (to be confirmed)",
+  "googleBusinessUrl": "",
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": ""
+  },
+  "serviceArea": ["Karachi", "Lahore", "Islamabad"],
+  "primaryServiceArea": "Karachi, Pakistan"
+}
