@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boothdesignkarachi.com/sitemap.xml
