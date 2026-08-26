@@ -54,10 +54,10 @@
 
   <section class="section section--light">
     <div class="container">
-      <form class="fade-up" style="max-width:760px;" action="#" method="post">
+      <form class="fade-up" style="max-width:820px;" action="#" method="post">
         <div class="form-grid">
           <div class="field">
-            <label for="name">Full name</label>
+            <label for="name">Full name *</label>
             <input type="text" id="name" name="name" required>
           </div>
           <div class="field">
@@ -65,7 +65,7 @@
             <input type="text" id="company" name="company">
           </div>
           <div class="field">
-            <label for="email">Email</label>
+            <label for="email">Email *</label>
             <input type="email" id="email" name="email" required>
           </div>
           <div class="field">
@@ -73,30 +73,54 @@
             <input type="tel" id="phone" name="phone">
           </div>
           <div class="field">
-            <label for="service">Service needed</label>
-            <select id="service" name="service">
-              <option>Exhibition Booth &amp; Stall Design</option>
-              <option>Exhibition Stand Fabrication</option>
-              <option>Custom Exhibition Stand</option>
-              <option>Kiosk Design &amp; Fabrication</option>
-              <option>Not sure yet</option>
-            </select>
+            <label for="exhibition">Exhibition / event name</label>
+            <input type="text" id="exhibition" name="exhibition" placeholder="e.g. IGATEX Karachi">
           </div>
           <div class="field">
-            <label for="exhibition">Exhibition / venue</label>
-            <input type="text" id="exhibition" name="exhibition" placeholder="e.g. Expo Centre Karachi">
-          </div>
-          <div class="field">
-            <label for="size">Stand size</label>
-            <input type="text" id="size" name="size" placeholder="e.g. 6m x 4m">
+            <label for="venue">Venue</label>
+            <input type="text" id="venue" name="venue" placeholder="e.g. Expo Centre Karachi">
           </div>
           <div class="field">
             <label for="date">Exhibition date</label>
             <input type="text" id="date" name="date" placeholder="e.g. March 2027">
           </div>
+          <div class="field">
+            <label for="size">Booth size</label>
+            <input type="text" id="size" name="size" placeholder="e.g. 6m x 4m">
+          </div>
+          <div class="field">
+            <label for="spacetype">Space type</label>
+            <select id="spacetype" name="spacetype">
+              <option value="">Select one</option>
+              <option>Raw space</option>
+              <option>Shell scheme</option>
+              <option>Not sure yet</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="budget">Budget range (PKR)</label>
+            <select id="budget" name="budget">
+              <option value="">Select a range</option>
+              <option>Under 5 lakh</option>
+              <option>5–15 lakh</option>
+              <option>15–30 lakh</option>
+              <option>30 lakh+</option>
+              <option>Not sure yet</option>
+            </select>
+          </div>
           <div class="field full">
-            <label for="details">Project details</label>
-            <textarea id="details" name="details" placeholder="Raw space or shell scheme? Budget bracket? Anything else we should know?"></textarea>
+            <label>Services required</label>
+            <div class="check-group">
+              <label class="check-pill"><input type="checkbox" name="services" value="Booth & Stall Design"> Booth &amp; Stall Design</label>
+              <label class="check-pill"><input type="checkbox" name="services" value="Stand Fabrication"> Stand Fabrication</label>
+              <label class="check-pill"><input type="checkbox" name="services" value="Custom Exhibition Stand"> Custom Exhibition Stand</label>
+              <label class="check-pill"><input type="checkbox" name="services" value="Kiosk Design & Fabrication"> Kiosk Design &amp; Fabrication</label>
+              <label class="check-pill"><input type="checkbox" name="services" value="Not sure yet"> Not sure yet</label>
+            </div>
+          </div>
+          <div class="field full">
+            <label for="details">Project brief</label>
+            <textarea id="details" name="details" placeholder="Tell us about the brand, the objective for this stand, and anything else relevant to the brief."></textarea>
           </div>
         </div>
         <button type="submit" class="btn btn-primary" style="margin-top:24px;">Send project details</button>
