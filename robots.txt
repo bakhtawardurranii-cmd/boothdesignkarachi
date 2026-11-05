@@ -65,4 +65,25 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: Google-CloudVertexBot
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
 Sitemap: https://boothdesignkarachi.com/sitemap.xml
