@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/2005/Sitemap/0.9">
+<urlset xmlns="http://www.w3.org/2005/Sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://boothdesignkarachi.com/</loc>
     <lastmod>2026-11-18</lastmod>
@@ -27,6 +27,15 @@
   <url>
     <loc>https://boothdesignkarachi.com/denning-5th-graduation-ceremony-expo-centre-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/portfolio/denning-graduation-event-stand-expo-centre-karachi.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/portfolio/denning-event-display-expo-centre-karachi.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/portfolio/denning-graduation-ceremony-2026-expo-centre-karachi.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/exhibition-booth-stall-design.html</loc>
@@ -71,10 +80,25 @@
   <url>
     <loc>https://boothdesignkarachi.com/photo-booth-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/branded-photo-booth-custom-branding-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/shadi-photo-booth-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/wooden-aluminium-photo-booth-rental-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/digital-selfie-photo-booth-corporate-events-karachi-expo-centre.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/portfolio.html</loc>
     <lastmod>2026-11-05</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/portfolio/denning-graduation-ceremony-2026-expo-centre-karachi.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/privacy-policy.html</loc>
@@ -103,25 +127,67 @@
   <url>
     <loc>https://boothdesignkarachi.com/corporate-photo-booth-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/branded-photo-booth-custom-branding-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/digital-selfie-photo-booth-corporate-events-karachi-expo-centre.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/photo-booth-for-sale-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/wooden-aluminium-photo-booth-rental-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/shadi-photo-booth-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/branded-photo-booth-custom-branding-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/digital-selfie-photo-booth-corporate-events-karachi-expo-centre.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/photo-booth-price-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/branded-photo-booth-custom-branding-karachi-expo-centre.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/photo-booth-rental-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/wooden-aluminium-photo-booth-rental-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/shadi-photo-booth-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/digital-selfie-photo-booth-corporate-events-karachi-expo-centre.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/selfie-booth-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/digital-selfie-photo-booth-corporate-events-karachi-expo-centre.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://boothdesignkarachi.com/shadi-photo-booth-karachi.html</loc>
     <lastmod>2026-11-18</lastmod>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/shadi-photo-booth-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/wooden-aluminium-photo-booth-rental-karachi-expo-centre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boothdesignkarachi.com/assets/img/photo-booth/digital-selfie-photo-booth-corporate-events-karachi-expo-centre.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
